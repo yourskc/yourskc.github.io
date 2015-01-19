@@ -1,14 +1,14 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: yourskc 備忘錄
+email: skc@caece.net
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
+  這裏是我整理的軟體使用心得 Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "" # 本機測試放空字串, 要發佈到140.112.12.21 用 /site/github
+url: "http://www.caece.com" # the base hostname & protocol for your site
+twitter_username: yourskc
+github_username:  yourskc
 
 # Build settings
 markdown: kramdown
