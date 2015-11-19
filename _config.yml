@@ -2,7 +2,7 @@
 title: yourskc 備忘錄
 email: skc@caece.net
 description: > # this means to ignore newlines until "baseurl:"
-  這裏是我整理的軟體使用心得 Write an awesome description for your new site here. You can edit this
+  這裏莊世坤整理的軟體使用心得 Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # 本機測試放空字串, 要發佈到140.112.12.21 用 /site/github
