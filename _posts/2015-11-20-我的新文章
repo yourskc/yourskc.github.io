@@ -1,12 +1,20 @@
 ---
 layout: post
-title:  "這是莊世坤的第一篇文章"
+title:  "這是莊世坤的第二篇文章"
 date:   2015-11-20 16:19:03
 categories: web
 ---
 如果我寫了一篇文章，不知道jekyll 是否可以編排得很整齊呢。檔名必須遵循這樣的格式`YYYY-MM-DD-name-of-post.ext`.
 
 至於分段呢，是否可以自動分段。
+
+新增或是修改文章之後，必須執行幾個命令讓 jekyll 將新的內容編譯進去。包括
+
+1. jekyll build
+2. git add --all
+3. git commit -m "skc"
+4. git push
+yourskc/Skc09
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
