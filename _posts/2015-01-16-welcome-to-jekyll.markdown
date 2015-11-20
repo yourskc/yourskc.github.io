@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "歡迎來到 yourskc備忘錄 網站"
+title:  "這是莊世坤的第一篇文章"
 date:   2015-01-16 16:34:03
 categories: web
 ---
