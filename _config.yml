@@ -22,8 +22,7 @@ author: skc
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Learn markdown: "https://www.markdownguide.org/"
     - NTU CE: "https://www.ce.ntu.edu.tw"
 
 ################
